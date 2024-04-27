@@ -7,7 +7,6 @@ Drum Kit is a simple web-based application that allows users to play different d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
